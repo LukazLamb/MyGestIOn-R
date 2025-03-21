@@ -1,5 +1,6 @@
 MyGest IOn'R
-
+  github de mon duo pour ce projet : https://github.com/mathias-sio/myGestiOnR
+  
   MyGest IOn'R est un outil conçu pour simplifier la vie des techniciens systèmes et réseaux. Il automatise la gestion du parc informatique et l'exécution de tâches réseau grâce à des scripts Bash.
 
   Fonctionnalités
